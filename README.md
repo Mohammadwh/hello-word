@@ -1,6 +1,6 @@
 # hello worlds
-<br />just for learning ;)
-<br />~> ruby
+just for learning ;)<br />
+~> ruby<br />
 <br />~> python
 <br />~> lua
 <br />~ java script
